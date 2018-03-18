@@ -11,7 +11,7 @@ import {
   View
 } from 'react-native';
 
-import Scanner from './src/Components/Scanner';
+import Scanner from './src/Scanner';
 
 export default class App extends React.Component {
   render() {
